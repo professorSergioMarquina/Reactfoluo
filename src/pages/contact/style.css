@@ -6,6 +6,9 @@
     border-radius: 0 !important;
     border: 1px solid var(--secondary-color);
 }
+a {
+    text-decoration: none;
+}
 
 .contact__form input.form-control {
     margin-bottom: 2em;
