@@ -1,11 +1,11 @@
-const logotext = "JOHN";
+const logotext = "Ashik";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Ashik Muhammed",
+    description: "I’m Ashik Muhammed a Graphics Designer amd Tech Enthusiast",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Ashik Muhammed",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
@@ -136,7 +136,7 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
+    YOUR_EMAIL: "ashikmuhammed@proton.me",
     YOUR_FONE: "(555)123-4567",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
